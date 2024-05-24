@@ -1,6 +1,3 @@
-# 本脚本为模拟单一人群接触模式下，人群内部传染病传播状态
-# 本文档作为批量模拟文档下的一个中转脚本，用以调用原始模型类的各个方法，并传入各种参数，传出模拟结果或监视参数
-
 import matplotlib.pyplot as plt
 from NEW_MCmodel_2 import Population
 import numpy as np
